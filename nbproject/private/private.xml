@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Grupo1">
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Rook.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/boardgame/Piece.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/chess/pieces/King.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Bishop.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/application/UI.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Queen.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/boardgame/BoardException.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/application/Program.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Knight.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/chess/ChessPosition.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/chess/ChessMatch.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Pawn.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/chess/ChessPiece.java</file>
+            <file>file:/C:/Users/breno/Documents/NetBeansProjects/ProjetoXadrez/src/boardgame/Position.java</file>
+        </group>
+    </open-files>
+</project-private>
